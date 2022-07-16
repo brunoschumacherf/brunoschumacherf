@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=F33535&center=true&lines=HHHello%2C+my+name+is+Bruno+Schumacher!;Welcome+to+my+profile!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=F33535&center=true&lines=HHHello%2C+my+name+is+Bruno+Schumacher!!!;Welcome+to+my+profile!)](https://git.io/typing-svg)
 <div align="center">
   <a href="https://github.com/brunoschumacherf">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=brunoschumacherf&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
